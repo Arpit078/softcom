@@ -1,0 +1,10 @@
+.containerRight{
+    width: 20vw;
+    height: 100vh;
+    background-color: black;
+    overflow-y: auto;
+}
+.containerRight::-webkit-scrollbar {
+    display: none;
+  }
+  

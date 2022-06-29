@@ -1,0 +1,13 @@
+.bodyB3{
+    height: 55vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.projectCard{
+    height: 45vh;
+    width: 40vh;
+    background-color: rgb(178, 175, 171,0.6);
+    border-radius: 1rem;
+    margin-right: 1rem;
+}

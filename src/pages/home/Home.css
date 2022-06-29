@@ -1,0 +1,63 @@
+.box{
+    display: flex;
+    height: 90vh;
+}
+.box-left{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    border-top: 1px dashed wheat;
+    border-right: 1px dashed wheat;
+}
+.box-right{
+    width: 25%;
+    border-top: 1px dashed wheat;
+
+}
+.box-mid{
+    width: 50%;
+    border-top: 1px dashed wheat;
+    border-right: 1px dashed wheat;
+}
+.calendar{
+    height: 55vh;
+    display: flex;
+    border-bottom: 1px dashed wheat;
+    justify-content: center;
+    
+}
+.calendar p{
+    background-color: #7A502C;
+    border-radius: 29px ;
+    border: none;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    height: 2.5rem;
+    width: max-content;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: rgb(169, 168, 168);
+    font-weight: 800;
+    font-size: larger;
+}
+.event-photo{
+    height: 45vh;
+    display: flex;
+    border-bottom: 1px dashed wheat;
+    justify-content: center;
+    
+}
+.event-photo p{
+    background-color: #7A502C;
+    border-radius: 29px ;
+    border: none;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    height: 2.5rem;
+    width: max-content;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: rgb(169, 168, 168);
+    font-weight: 800;
+    font-size: larger;
+}

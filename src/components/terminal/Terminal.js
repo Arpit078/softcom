@@ -30,7 +30,7 @@ const Login = (e)=>{
  
 }
   return (
-    <div className="terminal-window" onKeyDown={Enter} style={{height:"70vh",width:"70vh",color:"green",backgroundColor:"rgba(50, 35, 50, 0.8)"}}>
+    <div className="terminal-window" onKeyDown={Enter} style={{height:"70vh",width:"70vh",color:"green",backgroundColor:"rgb(126, 80, 126,0.5)"}}>
       
             <p style={{color:"green",fontFamily: 'VT323',fontSize:"1.5rem"}}>
               <label>>Softcom Login: </label>

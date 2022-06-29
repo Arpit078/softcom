@@ -1,0 +1,25 @@
+.navLeft{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.LOGO{
+    height: 3rem;
+    width: 3rem;
+}
+.search{
+    border: none;
+    outline: none;
+    background-color: rgb(0,0,0,0);
+    cursor: pointer;
+}
+.searchInput{
+    background-color:#7A502C;
+    outline: none;
+    border: none;
+    height: 2rem;
+    border-radius: 1rem;
+    padding: 0.2rem;
+}

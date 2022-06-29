@@ -1,0 +1,12 @@
+.bodyB2{
+    height: 45vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.photoCard{
+    height: 35vh;
+    width: 35vh;
+    background-color: rgb(178, 175, 171,0.6);
+    border-radius: 1rem;
+}

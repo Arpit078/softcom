@@ -1,0 +1,26 @@
+.containerMid{
+    width: 60vw;
+    background-color: rgb(0, 0, 0);
+    height: 100vh;
+    overflow-y: auto;
+  
+
+}
+.containerMid::-webkit-scrollbar {
+    display: none;
+  }
+  
+ 
+.navwrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    height: 10vh;
+}
+.postwrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column ;
+}
